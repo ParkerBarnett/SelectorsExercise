@@ -1,0 +1,53 @@
+/* Question 1 */
+body{
+    background-color: #CED4D8;
+}
+/* Question 2 */
+h1 {
+    color: #ac6ac7
+}
+/* Question 3 */
+h2 {
+    color: rgb(225, 165, 0);
+}
+/* Question 4 */
+li {
+    color: blue;
+}
+/* Question 5 */
+p {
+    background-color: gold;
+}
+/* Question 6 */
+input[type="text"] {
+    border: 5px dotted pink;
+}
+/* Question 7 */
+.first {
+    background-color: #fff;
+}
+/* Question 8 */
+#important {
+    border: 3px dashed#00f;
+}
+/* Question 9 */
+div p {
+    font-size: 30px;
+}
+/* Question 10 */
+input [type="email"] {
+    background-color: #808080;
+}
+/* Question 11 */
+div:nit-of-type(3) p{
+    background-color: hotpink;
+}
+/* Question 12 */
+div:nth-of-type(3) p:nth-of-type(2) {
+    border: 7px solid rgb(255, 255, 255);
+}
+/* Question 13 */
+em {
+    color: seashell;
+    font: 25px;
+}
